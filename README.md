@@ -1,3 +1,5 @@
+# I tried to train my React.js skills in this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
