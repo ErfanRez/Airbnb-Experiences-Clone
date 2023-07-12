@@ -26,6 +26,27 @@ nav {
   max-width: 100px;
 }
 
+section {
+  padding: 20px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid--photo {
+  max-width: 500px;
+  align-self: center;
+}
+
+.grid--header {
+  margin-bottom: 16px;
+}
+
+.grid--text {
+  margin-top: 0;
+}
 
 .cards-list {
   display: flex;
